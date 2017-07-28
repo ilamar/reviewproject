@@ -1,0 +1,52 @@
+.jumbotron {
+  background-image:url(../images/ila.jpg);
+  height:725px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.jumbotron .container {
+  position: relative;
+  top:50px;
+}
+.containerhead {
+  height: inherit;
+  padding-top: 20%
+  }
+.jumbotron h1 {
+  color: #ffffff;
+  }
+.jumbotron h2 {
+  color: #ffffff;
+  }
+.places {
+ 
+  height: 525px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 60px; 0px; 145px; 0px;
+}
+
+.transbox {
+  background-color: #ffffff;
+  opacity: 0.6; 
+  padding: 25px; 0px; 10px; 0px;
+}
+
+
+#places {
+ background-image:url("../images/santamonica.jpg");
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+label {
+padding-right; 20px;
+width: 100px;
+}
+
+#contact {
+ background-color: #BB4027;
+ padding: 50px; 0, 0, 0;
+ }
+
+
